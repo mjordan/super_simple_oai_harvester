@@ -10,7 +10,7 @@ To install and run this script, you will need:
 To install the reporter:
 
 * Clone the Git repo
-* `cd basic_oai_harvester`
+* `cd super_simple_oai_harvester`
 * `php composer.phar install` (or equivalent on your system, e.g., `./composer install`)
 
 ## Usage
